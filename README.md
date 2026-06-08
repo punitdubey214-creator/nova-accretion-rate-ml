@@ -347,8 +347,8 @@ McLeod, A. F., Claytor, Z. R., Bellinger, E. P., et al. 2024, *Astroconformer: T
 ---
 
 # Author
-Punit Dubey
-M.Sc. Physics
+Punit Dubey, 
+M.Sc. Physics, 
 NIT Rourkela, India
 
 Research Interests:

@@ -246,28 +246,15 @@ nova-accretion-rate-ml/
 │
 ├── figures/
 │   ├── model_comparison.png
-│   ├── rf_best_prediction.png
 │   ├── true_vs_predicted.png
 │   └── residual_histogram.png
 │
 ├── results/
-│   ├── model_comparison.csv
-│   ├── RF/
-│   ├── RF_DERIVATIVE/
-│   ├── XGBOOST/
-│   ├── LIGHTGBM/
-│   ├── CATBOOST/
-│   ├── ANN/
-│   ├── CNN/
-│   └── ASTROCONFORMER/
-│
+│   ├── model_comparison,csv
+|
 ├── docs/
 │   └── project_report.pdf
-│
-├── requirements.txt
-│
-├── LICENSE
-│
+|
 └── README.md
 ```
 
